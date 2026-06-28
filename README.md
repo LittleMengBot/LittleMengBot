@@ -2,4 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMengBot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Roast](https://githubroast.icu/api/card/LittleMengBot)](https://githubroast.icu/u/LittleMengBot)
+
 ### Hello World!
